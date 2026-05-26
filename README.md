@@ -6,4 +6,7 @@
 - Understood integer vs float division issue
 
 ## Day 02
-- Coming soon...
+- Practiced type conversion (int ↔ float)
+- Learned arithmetic expressions evaluation
+- Understood operator precedence in C
+- Explored modulus operator and implicit casting
